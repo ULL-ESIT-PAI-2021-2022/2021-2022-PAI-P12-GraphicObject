@@ -72,39 +72,16 @@ y derecha.
 
 [Esta
 imagen](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAKXSHBKYPLKJMUODKYTTTSAQ)
-
-
-%%%%%%%%%%%%%%%%%%%% Fig. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{figure}[h]
-\centerline{\includegraphics[width=0.5\linewidth]{bola}}
-\caption{Interfaz gráfica del programa} 
-\label{fig:bola} 
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-La Figura \ref{fig:bola} muestra un ejemplo al que debería parecerse la salida del programa a elaborar.
-
+muestra el posible aspecto de la interfaz del programa a realizar.
 
 Las siguientes deben tomarse como especificaciones de la aplicación a desarrollar:
-\begin{itemize}
-\item Utilizando \texttt{AssertJ}, desarrolle tests unitarios que aseguren que el comportamiento del progama
-      es el deseado.
-\item Utilice también \texttt{JaCoCo} para analizar el cubrimiento que los tests unitarios realizan sobre el
-      código desarrollado.
-\item La interfaz contendrá los cuatro botones: \texttt{Arriba}, \texttt{Abajo}, \texttt{Izquierda}, \texttt{Derecha}
-      cuyas funciones ya se han comentado.
-\item Cuando el círculo alcanza cualquiera de los bordes de la ventana, se ha de impedir
-      su movimiento en la dirección del borde alcanzado (los bordes son impenetrables).
-\item El número de pixeles que se desplaza el círculo por la ventana con cada pulsación de un botón
-      será un parámetro que el programa ha de leer en línea de comandos.
-\item Si el programa se ejecuta sin pasar ningún parámetro en línea de comandos, se debe escribir
-      un mensaje en la consola indicando la forma correcta de ejecución del programa.
-\item Se valorará positivamente que el diseño sea efectivamente orientado a objetos, modelando con diferentes
-      clases los distintos elementos que intervienen en la aplicación.
-\item El programa que aquí se propone se tomará como punto de partida para desarrollar una aplicación similar
-      a la que aquí se propone. 
-      Así pues, será beneficioso el realizar un diseño muy modular y flexible.
-\item Evite utilizar clases o métodos que no hayan sido explicados en las clases de teoría.
-\end{itemize}
+* La interfaz contendrá los cuatro botones: `Up`, `Down`, `Left`, `Right` que actúan 
+  sobre el movimiento de la bola en la correspondiente dirección.
+* Cuando el círculo alcanza cualquiera de los bordes de la ventana, se ha de impedir
+  su movimiento en la dirección del borde alcanzado (los bordes son impenetrables).
+* El número de pixeles que se desplaza el círculo por la ventana con cada pulsación de un botón
+  será un parámetro del programa.
+* Trate de realizar un diseño orientado a objetos lo más modular y flexible posible.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### Presentación de resultados
