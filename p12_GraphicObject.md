@@ -71,29 +71,25 @@ y derecha.
 
 [![App GUI](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAL7GMBDY5RCNY22ZKYTTWN7Q)](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAL7GMBDY5RCNY22ZKYTTWN7Q)
 
-La imagen anterior muestra el posible aspecto de la interfaz del programa a realizar.
+La imagen anterior muestra el posible aspecto (básico) de la interfaz del programa a realizar.
 
 Las siguientes deben tomarse como especificaciones de la aplicación a desarrollar:
 * La interfaz contendrá los cuatro botones: `Up`, `Down`, `Left`, `Right` que actúan 
   sobre el movimiento de la bola en la correspondiente dirección.
-* Cuando el círculo alcanza cualquiera de los bordes de la ventana, se ha de impedir
+* Cuando el círculo alcanza cualquiera de los bordes del área de dibujo, se ha de impedir
   su movimiento en la dirección del borde alcanzado (los bordes son impenetrables).
-* El número de pixeles que se desplaza el círculo por la ventana con cada pulsación de un botón
+* El número de pixeles que se desplaza el círculo en el área de dibujo con cada pulsación de un botón
   será un parámetro del programa.
 * Trate de realizar un diseño orientado a objetos lo más modular y flexible posible.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### Presentación de resultados
 La visualización de la ejecución del programa se realizará a través de una página web alojada
 en la máquina IaaS-ULL de la asignatura y cuya URL tendrá la forma:
 
-`http://10.6.129.123:8080/einstein-albert-chess.html` [1]
+`http://10.6.129.123:8080/einstein-albert-ball.html` [1]
 
 en la que se incustará un canvas para dibujar el tablero.
 Sustituya *Albert Einstein* por su nombre y apellido en la URL de su página.
-
-Utilice código HTML y CSS para imitar en la medida de lo posible la apariencia de la web de referencia
-[web de referencia](https://lichess.org/).
 
 Diseñe asimismo otra página HTML simple 
 
