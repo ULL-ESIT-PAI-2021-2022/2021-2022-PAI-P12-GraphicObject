@@ -70,6 +70,9 @@ rectangular con fondo de color azul sobre la que se verá un círculo centrado e
 y un panel con cuatro botones que permiten mover el círculo hacia arriba, abajo, izquierda
 y derecha.
 
+[Esta
+imagen](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAKXSHBKYPLKJMUODKYTTTSAQ)
+
 
 %%%%%%%%%%%%%%%%%%%% Fig. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[h]
