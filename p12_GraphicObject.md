@@ -53,6 +53,8 @@ como
 Previo a la implementación de cada clase, diseñe y desarrolle un conjunto de tests para probar el correcto
 funcionamiento de todos los métodos públicos.
 
+Utilice un fichero distinto para el código de cada una de las clases que intervienen en su programa.
+
 Encapsule las clases en módulos que exporten la correspondiete clase hacia otros programas clientes que pudieran utilizarla.
 
 Configure para la práctica una página web que sirva de índice para mostrar la documentación generada por
@@ -89,7 +91,7 @@ en la máquina IaaS-ULL de la asignatura y cuya URL tendrá la forma:
 
 `http://10.6.129.123:8080/einstein-albert-ball.html` [1]
 
-en la que se incustará un canvas para dibujar el tablero.
+en la que se incluirá al menos un elemento canvas para el área de dibujo.
 Sustituya *Albert Einstein* por su nombre y apellido en la URL de su página.
 
 Diseñe asimismo otra página HTML simple 
