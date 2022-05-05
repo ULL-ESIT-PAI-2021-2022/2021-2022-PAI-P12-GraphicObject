@@ -44,7 +44,8 @@ como
   Haga que la documentación del programa generada con JSDoc esté disponible a través de una web alojada en su máquina IaaS de la asignatura.
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la 
 [Guía de Estilo de Google para Javascript](https://google.github.io/styleguide/jsguide.html).
-* Todas las prácticas realizadas hasta la fecha, incluída la que se presenta para su evaluación, se encuentran alojadas en repositorios privados de GitHub.
+* Todas las prácticas realizadas hasta la fecha, incluída la que se presenta para su evaluación, se encuentran alojadas en repositorios privados de 
+[GitHub](https://github.com/ULL-ESIT-PAI-2021-2022).
 * Acreditar que es capaz de editar ficheros de forma remota en su VM usando Visual Studio
   Code (VSC)
 
