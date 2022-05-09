@@ -1,12 +1,4 @@
-# PRIVATE
-
-
-
-
-
-
-
-# Práctica 12. Programación Gráfica y Orientada a Eventos. HTML. Canvas. Movimiento y control de un objeto gráfico
+# Práctica 12. Programación Gráfica y Orientada a Eventos. HTML. Canvas. Movimiento y control de un objeto gráfico.
 ### Factor de ponderación: 10
 
 ### Objetivos
@@ -72,7 +64,8 @@ rectangular con fondo de color azul sobre la que se verá un círculo centrado e
 y un panel con cuatro botones que permiten mover el círculo hacia arriba, abajo, izquierda
 y derecha.
 
-[![App GUI](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAL7GMBDY5RCNY22ZKYTTWN7Q)](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png?token=GHSAT0AAAAAABQNNSZAL7GMBDY5RCNY22ZKYTTWN7Q)
+[![App
+GUI](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png)
 
 La imagen anterior muestra el posible aspecto (básico) de la interfaz del programa a realizar.
 
